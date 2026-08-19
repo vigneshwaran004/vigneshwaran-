@@ -14,7 +14,7 @@
 
 ■ About Me
 
-Name: Vigneshwaran
+Name: Vigneshwaran B
 Education: Diploma in Computer Science and Engineering
 Role: Full Stack Developer
 
