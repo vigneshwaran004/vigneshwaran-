@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=VIGNESHWARAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20WEB%20DEVELOPER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=18"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+amazing+projects;Learning+Full+Stack+Development;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects" alt="Typing SVG" /><br/><br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=VIGNESHWARAN B &fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20WEB%20DEVELOPER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=18"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+amazing+projects;Learning+Full+Stack+Development;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects" alt="Typing SVG" /><br/><br/>
 
 <img src="https://img.shields.io/badge/EDUCATION-Diploma%20in%20CSE-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Developer-7C3AED?style=for-the-badge"/>
@@ -14,7 +14,7 @@
 
 ■ About Me
 
-Name: Vigneshwaran B
+Name: Vigneshwaran B,
 Education: Diploma in Computer Science and Engineering
 Role: Full Stack Developer
 
