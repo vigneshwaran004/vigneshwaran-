@@ -14,21 +14,21 @@
 
 ■ About Me
 
-name: Vigneshwaran
-education: Diploma in Computer Science and Engineering
-role: Full Stack Developer
+Name: Vigneshwaran
+Education: Diploma in Computer Science and Engineering
+Role: Full Stack Developer
 
-focus:
+Focus:
   - Full Stack Development
   - Frontend Development
   - Backend Development
 
-currently_learning:
+Currently_learning:
   - JavaScript
   - React.js
   - Node.js
 
-mindset: Learn → Build → Share → Improve
+Mindset: Learn → Build → Share → Improve
 
 I'm a Diploma CSE graduate passionate about Full Stack Development and modern web technologies.
 I enjoy learning new technologies, solving programming problems, and building practical projects.
@@ -145,23 +145,23 @@ Professional Growth
 
 ■ Current Focus
 
-learning:
+Learning:
   - JavaScript
   - React.js
   - Node.js
   - MySQL
 
-building:
+Building:
   - Full Stack Web Applications
   - Personal Portfolio
   - JavaScript Projects
 
-exploring:
+Exploring:
   - Artificial Intelligence
   - REST APIs
   - Modern Web Technologies
 
-goal:
+Goal:
   - Become a Professional Full Stack Developer
   - Build Real-World Applications
   - Get a Software Development Job
